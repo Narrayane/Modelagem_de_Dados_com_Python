@@ -1,6 +1,6 @@
 # Análise de Dados de Vendas de Lojas
 
-Este projeto realiza uma análise exploratória dos dados de vendas de quatro lojas distintas. O objetivo é extrair insights sobre faturamento, desempenho por categoria de produto, avaliação dos clientes e custos de frete para auxiliar na tomada de decisões estratégicas.
+Este projeto realiza uma análise exploratória dos dados de vendas de quatro lojas distintas. O objetivo deste desafio é extrair insights sobre faturamento, desempenho por categoria de produto, avaliação dos clientes e custos de frete para auxiliar na tomada de decisões estratégicas.
 
 ## Dados
 
